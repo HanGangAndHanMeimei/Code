@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>01-NSURLSession发送GET请求和POST请求.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>91F8803E1C5B08F000F5C7BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91F880571C5B08F000F5C7BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91F880621C5B08F000F5C7BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
