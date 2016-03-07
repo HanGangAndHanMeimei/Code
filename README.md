@@ -5,6 +5,6 @@
 
 01 示例程序：01-NSURLSession发送GET请求和POST请求
 
-02 博客文章：[iOS开发拓展篇—Objective-C中的各种遍历（迭代）方式](http://www.cnblogs.com/wendingding/p/5168772.html)
+02 博客文章：[iOS开发实用技巧—Objective-C中的各种遍历（迭代）方式](http://www.cnblogs.com/wendingding/p/5251937.html)
 
 02 示例程序：Objective-C中的各种迭代（遍历）
