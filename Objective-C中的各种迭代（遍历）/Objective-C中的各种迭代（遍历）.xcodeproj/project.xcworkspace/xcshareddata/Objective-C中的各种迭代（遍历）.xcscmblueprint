@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BEE32CF0AB13F27333BEAF333680F868E695923A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : 0,
+    "BEE32CF0AB13F27333BEAF333680F868E695923A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75037B7A-C3DD-4F7C-8B24-24E5D5A83C6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : "",
+    "BEE32CF0AB13F27333BEAF333680F868E695923A" : "Code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Objective-C中的各种迭代（遍历）",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Objective-C中的各种迭代（遍历）\/Objective-C中的各种迭代（遍历）.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/Code.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEE32CF0AB13F27333BEAF333680F868E695923A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/Eye.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B"
+    }
+  ]
+}

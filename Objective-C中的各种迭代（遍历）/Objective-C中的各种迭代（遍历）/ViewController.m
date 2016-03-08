@@ -14,11 +14,15 @@
 
 @implementation ViewController
 
+#pragma mark --------------------
+#pragma mark Events
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
     [self iteratorWithApply];
 }
 
+#pragma mark --------------------
+#pragma mark Methods
 //普通的for循环遍历
 -(void)iteratorWithFor
 {
