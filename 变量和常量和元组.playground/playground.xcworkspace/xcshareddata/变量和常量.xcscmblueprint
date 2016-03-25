@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BEE32CF0AB13F27333BEAF333680F868E695923A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : 0,
+    "BEE32CF0AB13F27333BEAF333680F868E695923A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F604FC48-B75C-4016-B451-6F47622B260D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : "",
+    "BEE32CF0AB13F27333BEAF333680F868E695923A" : "Code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "变量和常量",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "变量和常量.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/Code.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEE32CF0AB13F27333BEAF333680F868E695923A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/Eye.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B"
+    }
+  ]
+}
