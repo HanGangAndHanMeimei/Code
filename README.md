@@ -12,3 +12,7 @@
 03 博客文章：[iOS开发Swift篇（01） 变量&常量&元组](http://www.cnblogs.com/wendingding/p/5319910.html)
 
 03 示例程序：变量和常量和元组
+
+04 博客文章：[iOS开发Swift篇（02） NSThread线程相关简单说明](http://www.cnblogs.com/wendingding/p/5409149.html)
+
+04 示例程序：NSThread线程相关简单说明
